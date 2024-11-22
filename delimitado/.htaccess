@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Acceso Restringido"
+AuthUserFile "C:\xampp\apache\passwd\passwords"
+Require user admin

@@ -1,0 +1,8 @@
+[Thu Nov 21 12:22:00.726763 2024] [ssl:warn] [pid 1224:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:22:00.754415 2024] [ssl:warn] [pid 1224:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:22:00.956973 2024] [ssl:warn] [pid 9024:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:22:00.981473 2024] [ssl:warn] [pid 9024:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:23:30.715086 2024] [ssl:warn] [pid 9612:tid 376] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:23:30.741234 2024] [ssl:warn] [pid 9612:tid 376] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:23:30.958132 2024] [ssl:warn] [pid 11868:tid 368] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 12:23:30.985489 2024] [ssl:warn] [pid 11868:tid 368] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name

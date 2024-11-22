@@ -1,0 +1,2 @@
+127.0.0.1 - - [21/Nov/2024:12:23:35 +0100] "GET / HTTP/1.1" 200 351 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+127.0.0.1 - - [21/Nov/2024:12:23:35 +0100] "GET /video/video.mp4 HTTP/1.1" 206 5957074 "https://www.empresa-tarea-daw02.com/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"

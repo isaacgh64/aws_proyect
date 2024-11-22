@@ -1,0 +1,2 @@
+[Thu Nov 21 13:00:48.959144 2024] [ssl:warn] [pid 2240:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 21 13:00:49.052209 2024] [ssl:warn] [pid 2240:tid 372] AH01909: empresa-tarea-daw02.local:443:0 server certificate does NOT include an ID which matches the server name
